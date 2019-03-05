@@ -1,7 +1,10 @@
 # CTF TOOL LIST
 A list of tools that are helpful for CTF competitions.
 
-## COMMANDLINE TEXT MANIPULLATION
+
+
+
+## COMMANDLINE TEXT MANIPULATION
 ### grep
 ### strings
 - Really handy for findng text embeded inside files, etc.
