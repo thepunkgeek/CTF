@@ -34,4 +34,12 @@ A list of tools that are helpful for CTF competitions.
 ### burp
 ### postman
 
+## PWN/EXPLOIT
 
+### SHELL-STORM.ORG
+- Has code to get shell on nearly any architecture and OS. 
+
+## PROGRAMMING
+
+### PYTHON
+- pwn tools
