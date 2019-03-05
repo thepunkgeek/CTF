@@ -13,12 +13,19 @@ A list of tools that are helpful for CTF competitions.
 ### tr
 ### cut
 
+## CRYPTO
+## cyberchef
+- [website](https://gchq.github.io/CyberChef/)
+## PASSWORD CRACKING
+### johntheripper
+
+
 ## REVERSE ENGINEERING
 ### hopper
 ### binary ninja
 ### dmesg
 ### gdb
-### PEDA for GDB
+### peda for gdb
 
 ## FORENSICS
 ### FILE
@@ -36,8 +43,10 @@ A list of tools that are helpful for CTF competitions.
 
 ## PWN/EXPLOIT
 
-### SHELL-STORM.ORG
-- Has code to get shell on nearly any architecture and OS. 
+### storm-storm
+- Has code to get shell on nearly any architecture and OS.
+- [website](http://shell-storm.org/)
+
 
 ## PROGRAMMING
 
