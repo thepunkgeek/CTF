@@ -14,24 +14,24 @@ A list of tools that are helpful for CTF competitions.
 ### cut
 
 ## REVERSE ENGINEERING
-- hopper
-- binary ninja
-- dmesg
-- gdb
+### hopper
+### binary ninja
+### dmesg
+### gdb
 
 ## FORENSICS
 
 ### FILE
-- exiftool
-- file
+### exiftool
+### file
 
 ### NETWORK
-- wireshark
-- network miner
+### wireshark
+### network miner
 
 ## WEB 
-- cookie editor addon
-- burp
-- postman
+### cookie editor browser addon
+### burp
+### postman
 
 
