@@ -2,12 +2,13 @@
 A list of tools that are helpful for CTF competitions.
 
 ## COMMANDLINE TEXT MANIPULLATION
-- grep
-- string
-- tail
-- head
-- tr
-- cut
+### grep
+### strings
+- Really handy for findng text embeded inside files, etc.
+### tail
+### head
+### tr
+### cut
 
 ## REVERSE ENGINEERING
 - hopper
