@@ -43,7 +43,7 @@ A list of tools that are helpful for CTF competitions.
 
 ## PWN/EXPLOIT
 
-### storm-storm
+### shell-storm
 - Has code to get shell on nearly any architecture and OS.
 - [website](http://shell-storm.org/)
 
