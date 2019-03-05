@@ -1,5 +1,5 @@
 # CTF
 Tools, resources, etc
 
-[TOOL LIST](/blob/master/Tool_list.md)
+[TOOL LIST](../master/Tool_list.md)
 
