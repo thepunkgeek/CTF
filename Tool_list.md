@@ -18,9 +18,9 @@ A list of tools that are helpful for CTF competitions.
 ### binary ninja
 ### dmesg
 ### gdb
+### PEDA for GDB
 
 ## FORENSICS
-
 ### FILE
 ### exiftool
 ### file
