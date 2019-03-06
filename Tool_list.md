@@ -38,10 +38,10 @@ A list of tools that are helpful for CTF competitions.
 
 ## WEB 
 
-### CHROME
-- Chrome in general seems to have a lot better support and better interfaces for poking at websites(this is obviously anecdotal)
+### chrome
+- the chrome browser in general seems to have a lot better support and better interfaces for poking at websites(this is obviously anecdotal)
 
-### BROWER ADDONS
+### browser addons
 - editthiscookie ([chrome](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en))
 
 - wappalyzer ([firefox](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)/[chrome](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg))
