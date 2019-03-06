@@ -37,7 +37,16 @@ A list of tools that are helpful for CTF competitions.
 ### network miner
 
 ## WEB 
-### cookie editor browser addon
+
+### CHROME
+- Chrome in general seems to have a lot better support and better interfaces for poking at websites(this is obviously anecdotal)
+
+### BROWER ADDONS
+- editthiscookie ([chrome](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en))
+
+- wappalyzer ([firefox](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)/[chrome](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg))
+- imacros ([firefox](https://addons.mozilla.org/en-US/firefox/addon/imacros-for-firefox/)/[chrome](https://chrome.google.com/webstore/detail/imacros-for-chrome/cplklnmnlbnpmjogncfgfijoopmnlemp?hl=en))
+
 ### burp
 ### postman
 
