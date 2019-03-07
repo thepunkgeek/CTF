@@ -26,6 +26,7 @@ A list of tools that are helpful for CTF competitions.
 ### dmesg
 ### gdb
 ### peda for gdb
+### nasm
 
 ## FORENSICS
 ### FILE
