@@ -33,6 +33,8 @@ A list of tools that are helpful for CTF competitions.
 ### file
 ### foremost
 ### fsck
+### ghex
+### hexedit
 
 ### NETWORK
 ### wireshark
