@@ -32,6 +32,7 @@ A list of tools that are helpful for CTF competitions.
 ### exiftool
 ### file
 ### foremost
+### fsck
 
 ### NETWORK
 ### wireshark
