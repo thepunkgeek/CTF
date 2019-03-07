@@ -36,6 +36,8 @@ A list of tools that are helpful for CTF competitions.
 ### fsck
 ### ghex
 ### hexedit
+### zsteg 
+  - [github](https://github.com/zed-0xff/zsteg)
 
 ### NETWORK
 ### wireshark
