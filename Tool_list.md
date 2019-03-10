@@ -17,7 +17,7 @@ A list of tools that are helpful for CTF competitions.
 ## cyberchef
 - [website](https://gchq.github.io/CyberChef/)
 ## factordb
-- [website] (http://factordb.com)
+- [website](http://factordb.com)
 
 ## PASSWORD CRACKING
 ### johntheripper
