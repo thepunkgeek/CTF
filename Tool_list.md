@@ -12,6 +12,8 @@ A list of tools that are helpful for CTF competitions.
 ### head
 ### tr
 ### cut
+### xxd
+- The xxd command in Linux lets you create a hexdump or do the reverse. 
 
 ## CRYPTO
 ## cyberchef
@@ -25,14 +27,27 @@ A list of tools that are helpful for CTF competitions.
 
 ## REVERSE ENGINEERING
 ### hopper
-### binary ninja
+- [website](https://www.hopperapp.com/)
+-  Hopper Disassembler, the reverse engineering tool that lets you disassemble, decompile and debug your applications. 
+### binary ninja 
+- [website](https://binary.ninja/)
+### ghidra
+- [website](https://ghidra-sre.org/)
+- A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate
 ### dmesg
 ### gdb
 ### peda for gdb
 ### nasm
+### ROPgadget
+- [github](https://github.com/JonathanSalwan/ROPgadget)
+- This tool lets you search binaries to facilitate in ROP exploitation. 
+### binwalk
+- [github](https://github.com/ReFirmLabs/binwalk)
+- Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
+### dd
+- Can be used to extract userful parts from binary files, really handy when reversing firmware for example.
 
 ## FORENSICS
-### FILE
 ### exiftool
 ### file
 ### foremost
@@ -45,6 +60,13 @@ A list of tools that are helpful for CTF competitions.
 ### NETWORK
 ### wireshark
 ### network miner
+### tcpdump
+### ngrep
+  - [github](https://github.com/jpr5/ngrep)
+- ngrep is like GNU grep applied to the network layer. 
+### scapy
+- [website](https://scapy.net/)
+- Scapy is a powerful Python-based interactive packet manipulation program and library.
 
 ## WEB 
 
