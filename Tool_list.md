@@ -26,6 +26,9 @@ A list of tools that are helpful for CTF competitions.
 
 
 ## REVERSE ENGINEERING
+### radare2
+- [website](https://www.radare.org/r/)
+- portable reversing framework that an be used for dissasembly, debugging, forensics, patching, analysis, and exploitation
 ### hopper
 - [website](https://www.hopperapp.com/)
 -  Hopper Disassembler, the reverse engineering tool that lets you disassemble, decompile and debug your applications. 
