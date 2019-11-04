@@ -1,5 +1,6 @@
 # CTF TOOL LIST
-A list of tools that are helpful for CTF competitions.
+An ever-expanding list of tools that are helpful in CTF competition challenges.
+
 
 
 
@@ -42,6 +43,8 @@ A list of tools that are helpful for CTF competitions.
 ### ghidra
 - [website](https://ghidra-sre.org/)
 - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate
+### IDA
+- [website](https://www.hex-rays.com/products/ida/index.shtml)
 ### dmesg
 ### ltrace 
 - Debugging program to track runtime library calls in dynamically linked programs
@@ -55,6 +58,10 @@ A list of tools that are helpful for CTF competitions.
 - A cross platform AArch32/x86/x86-64 debugger. 
 ### OllyDbg 
 - [website](http://www.ollydbg.de/)
+### qira
+- [website](https://qira.me/)
+- A timeless debugger. All state is tracked while a program is running, so you can debug in the past.
+- Can be integrated with IDA.
 ### nasm
 ### ROPgadget
 - [github](https://github.com/JonathanSalwan/ROPgadget)
