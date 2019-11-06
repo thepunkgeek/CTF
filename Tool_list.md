@@ -93,6 +93,10 @@ An ever-expanding list of tools that are helpful in CTF competition challenges.
 ### Pftriage
   - [github](https://github.com/idiom/pftriage)
   - a tool to help analyze files during malware triage. It allows an analyst to quickly view and extract properties of a file to help during the triage process. The tool also has an analyze function which can detect common malicious indicators used by malware.
+### srum-dump
+ - [github](https://github.com/MarkBaggett/srum-dump)
+ - A forensics tool to convert the data in the Windows srum (System Resource Usage Monitor) database to an xlsx spreadsheet.
+
 
 
 ### NETWORK
