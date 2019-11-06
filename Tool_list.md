@@ -86,8 +86,13 @@ An ever-expanding list of tools that are helpful in CTF competition challenges.
   - [github](https://github.com/zed-0xff/zsteg)
 ### Autopsy 
   - [website](https://www.autopsy.com/)
+  - the premier end-to-end open source digital forensics platform. Built by Basis Technology with the core features you expect in commercial forensic tools, Autopsy is a fast, thorough, and efficient hard drive investigation solution that evolves with your needs.
 ### EnCase Forensic 
   - [website](https://www.guidancesoftware.com/encase-forensic?cmpid=nav_r)
+  - EnCase Forensic enables you to quickly search, identify, and prioritize potential evidence, in computers and mobile devices, to determine whether further investigation is warranted. 
+### Pftriage
+  - [github](https://github.com/idiom/pftriage)
+  - a tool to help analyze files during malware triage. It allows an analyst to quickly view and extract properties of a file to help during the triage process. The tool also has an analyze function which can detect common malicious indicators used by malware.
 
 
 ### NETWORK
